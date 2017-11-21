@@ -1,0 +1,44 @@
+<?php
+$LANG_CHECK_OUT = "Check Out";
+$LANG_STEP_ONE = "Step1";
+$LANG_NEW_USER = "New User";
+$LANG_CHECKOUT_OPTIONS = "Checkout options";
+$LANG_REGISTER_ACCOUNT = "Register Account";
+$LANG_GUEST_CHECKOUT = "Guest Checkout";
+$LANG_CANCEL = "Cancel";
+$LANG_ADVICE = "Please use Register And Checkout to easily get access to your order history, or use Checkout as Guest";
+$LANG_SHOPPER_INFORMATION = "Shopper Information";
+$LANG_GET_QUOTES = "Get Quotes";
+$LANG_CONTINUE = "Continue";
+$LANG_BILL_TO = "Bill To";
+$LANG_COUNTRY = "Country";
+$LANG_STATE = "State / Province / Region";
+$LANG_SHIPPING_ORDER = "Shipping Order";
+$LANG_SHIPPING_TO_BILL_ADDRESS = "Shipping to bill address";
+$LANG_REVIEW_AND_PAYMENT = "Review & Payment";
+$LANG_ITEM = "Item";
+$LANG_PRICE = "Price";
+$LANG_QUANTITY = "Quantity";
+$LANG_TOTAL = "Total";
+$LANG_CART_SUB_TOTAL = "Cart Sub Total";
+$LANG_ECO_TAX = "Exo Tax";
+$LANG_SHIPPING_COST = "Shipping Cost";
+$LANG_DIRECT_BANK_TRANSFER = "Direct Bank Transfer";
+$LANG_CHECK_PAYMENT = "Check Payment";
+$LANG_PAYPAL = "Paypal";
+$LANG_ERROR_OCCUR = "Sorry, error occurs. Please refresh the page and try again";
+$LANG_ORDER_SUMMARY = "Order Summary";
+$LANG_ITEMS = "items";
+$LANG_PRODUCT = "Product";
+$LANG_STANDARD_DELIVERY = "Standard Delivery";
+$LANG_SHIPPING_CHARGE = "Shipping Charge";
+$LANG_SUBTOTAL = "Subtotal";
+$LANG_SELECT_SHIPPING_ADDRESS = "Select a shipping address";
+
+$LANG_CHECKOUT_DETAILS = "Checkout Details";
+$LANG_LOGIN_MESSAGE = "<a href='?papp=login'>Please login before checkout. </a>";
+$LANG_REGISTER_MESSAGE = "Don't have an account? <span style='color:red;'><a href='?papp=login'> Register Now! </a></span>";
+$LANG_UNIT_PRICE = "Unit Price";
+$LANG_STATE = "State";
+$LANG_CHECKOUT = "Checkout";
+?>

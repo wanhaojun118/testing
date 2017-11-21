@@ -1,0 +1,7 @@
+<?php 
+$LANG_GET_IN_TOUCH = "保持联系";
+$LANG_CONTACT_INFO = "联系方式";
+$LANG_SOCIAL_NETWORKING = "社交媒体";
+$LANG_FEEDBACK_SUBMITTED = "已提交。感谢您的反馈意见";
+$LANG_FEEDBACK_NOT_SUBMITTED = "出现故障。请重试";
+?>

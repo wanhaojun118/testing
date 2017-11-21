@@ -1,0 +1,22 @@
+<?php
+
+$LANG_PAYMENT_OPTION = "选择付款方式";
+$LANG_CREDIT_OR_DEBIT = "信用卡 / 借记卡";
+$LANG_ONLINE_BANKING = "网上转账";
+$LANG_USE_PAYPAL = "使用贝宝";
+$LANG_CARD_NUMBER = "信用卡 / 借记卡号码";
+$LANG_CARD_NAME = "信用卡 / 借记卡姓名";
+$LANG_EXPIRY_DATE = "有效期";
+$LANG_CCV_CVV = "CCV / CVV";
+$LANG_PLACE_YOUR_ORDER = "下订单";
+$LANG_SHIPPING_AND_BILLING_ADDRESS = "送货和开票地址";
+$LANG_ORDER_SUMMARY = "订单总结";
+$LANG_ITEMS = "物品";
+$LANG_PRODUCT = "商品";
+$LANG_QUANTITY = "数量";
+$LANG_PRICE = "价格";
+$LANG_STANDARD_DELIVERY = "标准运送日期";
+$LANG_SUBTOTAL = "小计";
+$LANG_SHIPPING_CHARGE = "运费";
+$LANG_TOTAL = "总计";
+?>

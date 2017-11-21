@@ -1,0 +1,37 @@
+<?php
+$LANG_CHECK_OUT = "结帐";
+$LANG_STEP_ONE = "第一步";
+$LANG_NEW_USER = "新用户";
+$LANG_CHECKOUT_OPTIONS = "结帐选项";
+$LANG_REGISTER_ACCOUNT = "注册账户";
+$LANG_GUEST_CHECKOUT = "顾客结帐";
+$LANG_CANCEL = "取消";
+$LANG_ADVICE = "若想要更快地访问购物记录，请使用注册账户结帐或顾客结帐。";
+$LANG_SHOPPER_INFORMATION = "购物者资料";
+$LANG_GET_QUOTES = "获取详情";
+$LANG_CONTINUE = "继续";
+$LANG_BILL_TO = "记账到";
+$LANG_COUNTRY = "国家";
+$LANG_STATE = "州/省/地区";
+$LANG_SHIPPING_ORDER = "装货单";
+$LANG_SHIPPING_TO_BILL_ADDRESS = "运送到账单地址";
+$LANG_REVIEW_AND_PAYMENT = "审查和付款";
+$LANG_ITEM = "物品";
+$LANG_PRICE = "价格";
+$LANG_QUANTITY = "数量";
+$LANG_TOTAL = "总数";
+$LANG_CART_SUB_TOTAL = "购物车总额";
+$LANG_ECO_TAX = "经济税";
+$LANG_SHIPPING_COST = "邮费";
+$LANG_DIRECT_BANK_TRANSFER = "直接银行转账";
+$LANG_CHECK_PAYMENT = "支票付款";
+$LANG_PAYPAL = "使用Paypal";
+$LANG_ERROR_OCCUR = "对不起，系统故障。请刷新此页并重试";
+$LANG_ORDER_SUMMARY = "订单总结";
+$LANG_ITEMS = "物品";
+$LANG_PRODUCT = "商品";
+$LANG_STANDARD_DELIVERY = "标准运送日期";
+$LANG_SHIPPING_CHARGE = "运费";
+$LANG_SUBTOTAL = "小计";
+$LANG_SELECT_SHIPPING_ADDRESS = "请选择您的邮寄地址";
+?>

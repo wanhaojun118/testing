@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+    <style>
+        #loading .svg-icon-loader {position: absolute;top: 50%;left: 50%;margin: -50px 0 0 -50px;}
+    </style>
+    {{> admin-head  }}
+
+</head>
+<body>
+<div id="loading">
+    <div class="svg-icon-loader">
+        <img src="../../assets/images/svg-loaders/bars.svg" width="40" alt="">
+    </div>
+</div>
+{{> body  }}
+
+{{#if production}}
+    {{> admin-assets-js  }}
+{{else}}
+    {{> admin-assets-js-development  }}
+{{/if}}
+</body>
+</html>

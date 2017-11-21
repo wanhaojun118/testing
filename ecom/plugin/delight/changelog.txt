@@ -1,0 +1,11 @@
+------------------------------------------------------
+
+Delight - Bootstrap Material Design Admin Template
+
+------------------------------------------------------
+
+Version 1.0.0 - 14.02.2015 ( Initial release )
+
+Version 1.1.0 - 19.12.2015 (Added slideDown menu and auto select current menu)
+
+------------------------------------------------------
